@@ -7,7 +7,7 @@
 
 
 // Bootstrap with Flexbox enabled. Uncomment to disable
-$enable-flex: false;
+$enable-flex: true;
 
 @import "_variables";
 @import "../../node_modules/bootstrap/scss/bootstrap.scss";
